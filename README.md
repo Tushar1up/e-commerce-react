@@ -34,7 +34,7 @@ Check out the live demo of  here: https://incredible-beignet-bd3f76.netlify.app/
 1. Clone the repository:
 
 ```bash
-git Clone https://github.com/Tushar1up/crypto.git
+https://github.com/Tushar1up/e-commerce-react.git
 ```
 2. Install dependencies:
 
