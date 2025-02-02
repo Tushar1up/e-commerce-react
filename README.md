@@ -17,7 +17,8 @@ Shop.com is a e-commerce platform which fetches data from fake api and let users
 -  fetches product data from fake api
 -  user can add item to cart
 -  user can search for particular item
--  many sorting features are also available 
+-  many sorting features are also available
+-  mobile optimized
 
 ## remaining Features
 - dark/light mode functionality
